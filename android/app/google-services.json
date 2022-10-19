@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904130633791",
+    "project_id": "ltuc-60503",
+    "storage_bucket": "ltuc-60503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904130633791:android:4243dd074ddafd3737588a",
+        "android_client_info": {
+          "package_name": "com.example.mystudentinltuc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904130633791-d9n3anp9quvu23n01uvah7j8hj84dh98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjlQaYSXDWiOZGLpyBTwiXeUiFc1DTxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904130633791-d9n3anp9quvu23n01uvah7j8hj84dh98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
